@@ -16,6 +16,6 @@
     "development": ["last 1 chrome version"]
   },
   "engines": {
-    "node": "16.x"
+    "node": "22.x"
   }
 }
